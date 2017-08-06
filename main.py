@@ -30,4 +30,4 @@ def upload():
 	file= request.files['file']
 	# file=str(file)
 	print file.filename
-	return "Sort"
+	return "Sick"
